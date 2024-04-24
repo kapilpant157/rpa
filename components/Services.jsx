@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Image from 'next/image'
 const Services = () => {
   return (
     <section class="text-gray-600 body-font">
@@ -11,11 +11,57 @@ const Services = () => {
           </div>
           <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">We offer wide range of professional services, closely managed and involved directly with our client. We are committed to understand client’s business and solve their problems immediately and effectively.</p>
         </div>
-        <div class="flex flex-wrap -m-4">
-          <div class="xl:w-1/4 md:w-1/2 p-4">
+        <div class="flex flex-wrap -m-3">
+        <div class="xl:w-1/3 md:w-1/2 p-4">
             <div class="bg-gray-100  p-1 rounded-lg">
-              {/* <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/720x400" alt="content"> */}
-              {/* <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">SUBTITLE</h3> */}
+              <Image
+                className="h-40 rounded w-full object-cover object-center mb-6"
+                src="/dcba.jpg"
+                width={720}
+                height={600}
+                alt="Picture of the author"
+              />
+              <h2 class="text-lg text-gray-900 text-center font-medium title-font mb-4">Company Formation </h2>
+              <ul>
+                <li>•	Company Registration.</li>
+                <li>•	Comapny Name Change.</li>
+                <li>•	Company Audit</li>
+                <li>•	Company Policies Update Tracking</li>
+                <li>•	Company Dissolve</li>
+                <li>•	And Many More..</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="xl:w-1/3 md:w-1/2 p-4">
+            <div class="bg-gray-100  p-1 rounded-lg">
+              <Image
+                className="h-40 rounded w-full object-cover object-center mb-6"
+                src="/dcba.jpg"
+                width={720}
+                height={600}
+                alt="Picture of the author"
+              />
+              <h2 class="text-lg text-gray-900 text-center font-medium title-font mb-4">Bussiness & Start-Ups</h2>
+              <ul>
+                <li>•	Bussness Formation.</li>
+                <li>•	Feasibility Study.</li>
+                <li>•	Financial Study</li>
+                <li>•	Consultancy</li>
+                <li>•	Literature Reviews</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="xl:w-1/3 md:w-1/2 p-4">
+            <div class="bg-gray-100  p-1 rounded-lg">
+              <Image
+                className="h-40 rounded w-full object-cover object-center mb-6"
+                src="/dcba.jpg"
+                width={720}
+                height={600}
+                alt="Picture of the author"
+              />
               <h2 class="text-lg text-gray-900 text-center font-medium title-font mb-4">Auditing & Assurance Services </h2>
               <ul>
                 <li>•	Statutory/External/Final Audit.</li>
@@ -25,13 +71,18 @@ const Services = () => {
                 <li>•	Due Diligence Audit</li>
                 <li>•	Certification</li>
               </ul>
-
-
             </div>
           </div>
-          <div class="xl:w-1/4 md:w-1/2 p-4">
+
+          <div class="xl:w-1/3 md:w-1/2 p-4">
             <div class="bg-gray-100 p-1 rounded-lg">
-              {/* <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/721x401" alt="content"> */}
+              <Image
+                className="h-40 rounded w-full object-cover object-center mb-6"
+                src="/dcba.jpg"
+                width={720}
+                height={401}
+                alt="Picture of the author"
+              />
               {/* <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">SUBTITLE</h3> */}
               <h2 class="text-lg text-gray-900 text-center font-medium title-font mb-4">Accounting Services</h2>
               <ul>
@@ -53,8 +104,15 @@ const Services = () => {
 
               </ul>            </div>
           </div>
-          <div class="xl:w-1/4 md:w-1/2 p-4">
+          <div class="xl:w-1/3 md:w-1/2 p-4">
             <div class="bg-gray-100 p-1 rounded-lg">
+              <Image
+                className="h-40 rounded w-full object-cover object-center mb-6"
+                src="/dcba.jpg"
+                width={720}
+                height={600}
+                alt="Picture of the author"
+              />
               {/* <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/722x402" alt="content"> */}
               {/* <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">SUBTITLE</h3> */}
               <h2 class="text-lg text-gray-900 text-center font-medium title-font mb-4">Financial Services </h2>
@@ -72,8 +130,15 @@ const Services = () => {
 
             </div>
           </div>
-          <div class="xl:w-1/4 md:w-1/2 p-4">
+          <div class="xl:w-1/3 md:w-1/2 p-4">
             <div class="bg-gray-100 p-1 rounded-lg">
+              <Image
+                className="h-40 rounded w-full object-cover object-center mb-6"
+                src="/dcba.jpg"
+                width={720}
+                height={600}
+                alt="Picture of the author"
+              />
               {/* <img class="h-40 rounded w-full object-cover object-center mb-6" src="https://dummyimage.com/723x403" alt="content"> */}
               {/* <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">SUBTITLE</h3> */}
               <h2 class="text-lg text-gray-900 taxt-center font-medium title-font mb-4">TAX , VAT, Excise Consultancy, Planning & Verification Services </h2>

@@ -1,4 +1,5 @@
 import Blogs from '@/components/Blogs'
+import Clients from '@/components/Clients'
 import ContactUs from '@/components/ContactUs'
 import Hero from '@/components/Hero'
 import Services from '@/components/Services'
@@ -15,6 +16,7 @@ const HomePage = () => {
 
       <Hero/>
       <Services />
+      <Clients/>
       <Blogs />
       <Testimonials />
       <Team />
