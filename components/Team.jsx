@@ -8,7 +8,7 @@ const Team = () => {
             <div class="container px-5 py-24 mx-auto">
                 <div class="flex flex-col text-center w-full mb-20">
                     <h1 class="text-2xl font-medium title-font mb-4 text-gray-900 tracking-widest">OUR TEAM</h1>
-                    <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
+                    <p class="lg:w-2/3 mx-auto leading-relaxed text-base">&quot; Unifying strengths, multiplying potential. Together, we navigate challenges, forge pathways, and conquer horizons. Each member, a pillar of support; together, an unbreakable fortress. In unity, we innovate, inspire, and elevate, crafting success from diversity. Together, we redefine possibilities, for we are not just a team, but a force of synergy.&quot;</p>
                 </div>
                 <div class="flex flex-wrap -m-4">
                     <div class="p-4 lg:w-1/2">
