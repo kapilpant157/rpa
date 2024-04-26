@@ -16,7 +16,7 @@ const Services = () => {
             <div class="bg-gray-100  p-1 rounded-lg">
               <Image
                 className="h-40 rounded w-full object-cover object-center mb-6"
-                src="/dcba.jpg"
+                src="/company.jpg"
                 width={720}
                 height={600}
                 alt="Picture of the author"
@@ -37,7 +37,7 @@ const Services = () => {
             <div class="bg-gray-100  p-1 rounded-lg">
               <Image
                 className="h-40 rounded w-full object-cover object-center mb-6"
-                src="/dcba.jpg"
+                src="/bussiness.jpg"
                 width={720}
                 height={600}
                 alt="Picture of the author"
@@ -57,7 +57,7 @@ const Services = () => {
             <div class="bg-gray-100  p-1 rounded-lg">
               <Image
                 className="h-40 rounded w-full object-cover object-center mb-6"
-                src="/dcba.jpg"
+                src="/auditing.jpg"
                 width={720}
                 height={600}
                 alt="Picture of the author"
@@ -78,7 +78,7 @@ const Services = () => {
             <div class="bg-gray-100 p-1 rounded-lg">
               <Image
                 className="h-40 rounded w-full object-cover object-center mb-6"
-                src="/dcba.jpg"
+                src="/accountin.jpg"
                 width={720}
                 height={401}
                 alt="Picture of the author"
@@ -108,7 +108,7 @@ const Services = () => {
             <div class="bg-gray-100 p-1 rounded-lg">
               <Image
                 className="h-40 rounded w-full object-cover object-center mb-6"
-                src="/dcba.jpg"
+                src="/finance.jpg"
                 width={720}
                 height={600}
                 alt="Picture of the author"
@@ -134,7 +134,7 @@ const Services = () => {
             <div class="bg-gray-100 p-1 rounded-lg">
               <Image
                 className="h-40 rounded w-full object-cover object-center mb-6"
-                src="/dcba.jpg"
+                src="/tax.jpg"
                 width={720}
                 height={600}
                 alt="Picture of the author"

@@ -19,9 +19,10 @@ const Team = () => {
                                 width={200}
                                 height={200}
                                 alt="Picture of the author"
-                            />                                <div class="flex-grow sm:pl-8">
+                            />
+                            <div class="flex-grow sm:pl-8">
                                 <h2 class="title-font font-medium text-lg text-gray-900">Ravindra Pandey</h2>
-                                <h3 class="text-gray-500 mb-3">FCA, BBSTU </h3>
+                                <h3 class="text-gray-500 mb-3">Proprietor </h3>
                                 <p class="mb-4">Taxation, Compliance, Auditing, Non-profit Organization, IT & educational Sector.</p>
                                 <span class="inline-flex">
                                     <a class="text-gray-500" href='#'>
@@ -51,9 +52,10 @@ const Team = () => {
                                 width={200}
                                 height={200}
                                 alt="Birendra Joshi"
-                            />                                <div class="flex-grow sm:pl-8">
+                            />
+                            <div class="flex-grow sm:pl-8">
                                 <h2 class="title-font font-medium text-lg text-gray-900">Birendra Prasad Joshi</h2>
-                                <h3 class="text-gray-500 mb-3">MBS</h3>
+                                <h3 class="text-gray-500 mb-3">Manager – Taxation</h3>
                                 <p class="mb-4">Taxation, Tax Accounting, Construction Accounting, management advisory.</p>
                                 <span class="inline-flex">
 

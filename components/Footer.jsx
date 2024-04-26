@@ -18,7 +18,12 @@ const Footer = () => {
                         />
                         <span className="ml-3 text-xl">RPA Nepal</span>
                     </a>
-                    <p className="mt-2 text-sm text-gray-500">Firm that you can depend on </p>
+                    
+                    <span className="text-sm text-gray-500">Firm Registration: 521 (B.S. 2071)</span>
+                    <span className="text-sm text-gray-500">VAT Registration: 106158212</span>
+                    
+
+                    
                 </div>
                 <div className="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center">
                     <div className="lg:w-1/4 md:w-1/2 w-full px-4">
