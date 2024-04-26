@@ -25,14 +25,8 @@ a:hover{
     color: black;
 }
 
-.social{
-    border: 2px solid red;
-    color: rgb(17 24 39);
-    
-}
 
 .foot{
-    /* margin: auto; */
     padding: 1rem 2rem;
     justify-content: center;
     text-align: center;
