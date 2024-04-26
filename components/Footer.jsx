@@ -57,10 +57,10 @@ const Footer = () => {
                     <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Reach Us</h2>
                     <nav className="list-none mb-10">
                         <li>
-                            <a className="text-gray-600 hover:text-gray-800 mb-4">Street no.3, Bheemdatt-18, Kanchanpur, Nepal</a>
+                            <a className="text-gray-600 hover:text-gray-800 mb-4" href="https://maps.app.goo.gl/vfjVVJp9Mo971zQc7" rel="noopener noreferrer" target="_blank" >Street no.3, Bheemdatt-18, Kanchanpur, Nepal</a>
                         </li>
                         <li>
-                            <a className="text-gray-600 hover:text-gray-800 mb-3">Bijuli Bazar, Kathmandu, Nepal</a>
+                            <a className="text-gray-600 hover:text-gray-800 mb-3"  href="https://maps.app.goo.gl/nub5rV66ULRbxzjL6" rel="noopener noreferrer" target="_blank" >Bijuli Bazar, Kathmandu, Nepal</a>
                         </li>
                         <li>
                             <a className="text-gray-600 hover:text-gray-800">+977 98511 26545</a>
