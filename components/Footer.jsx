@@ -19,7 +19,7 @@ const Footer = () => {
             </div>
             <div className="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center">
                 <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                    <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
+                    <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">BLOG UPDATE</h2>
                     <nav className="list-none mb-10">
                         <li>
                             <a className="text-gray-600 hover:text-gray-800">First Link</a>
@@ -37,7 +37,7 @@ const Footer = () => {
                 </div>
                 
                 <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                    <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">About Us</h2>
+                    <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">ABOUT US</h2>
                     <nav className="list-none mb-10">
                         <li>
                             <a className="text-gray-600 hover:text-gray-800" href="#" rel="noopener noreferrer" target="_blank">What we do</a>
@@ -54,7 +54,7 @@ const Footer = () => {
                     </nav>
                 </div>
                 <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                    <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Reach Us</h2>
+                    <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">REACH US</h2>
                     <nav className="list-none mb-10">
                         <li>
                             <a className="text-gray-600 hover:text-gray-800 mb-4" href="https://maps.app.goo.gl/vfjVVJp9Mo971zQc7" rel="noopener noreferrer" target="_blank" >Street no.3, Bheemdatt-18, Kanchanpur, Nepal</a>
