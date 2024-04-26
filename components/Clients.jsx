@@ -4,6 +4,10 @@ const Clients = () => {
     return (
         <div class="flex items-center justify-center bg-gray-300 ">
             <div class="flex-col items-center justify-center ">
+            <div class="flex flex-col text-center w-full mt-10 mb-50">
+      <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">STATISTICS</h1>
+      <p class="lg:w-2/3 mx-auto leading-relaxed text-base">eep jianbing selfies heirloom prism food truck ugh squid celiac humblebrag.</p>
+    </div>
                 <div class="flex">
                     <div class="flex lg:flex-row flex-col p-4 space-x-4 space-y-4 max-w-7xl justify-around w-full h-auto lg:h-60 items-center ">
                         <div class="border rounded h-40 w-[100%] md:w-72 flex items-center justify-center ml-4 lg:px-0 px-6 bg-white shadow-xl md:mt-4">

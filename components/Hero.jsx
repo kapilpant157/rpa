@@ -22,10 +22,10 @@ const Hero = () => {
                                 <div >
                                     <Image
                                         className="lg:w-40 w-64 h-40  overflow-hidden rounded-xl "
-                                        src="/dcba.jpg"
+                                        src="/ca.jpeg"
                                         width={300}
                                         height={500}
-                                        alt="Picture of the author"
+                                        alt="CA logo"
                                     />
                                 </div>
                                 <div className="flex flex-row lg:flex-col space-x-3 space-y-6 items-center justify-center">

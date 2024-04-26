@@ -6,6 +6,7 @@ import Services from '@/components/Services'
 
 import Team from '@/components/Team'
 import Testimonials from '@/components/Testimonials'
+import Works from '@/components/Works'
 import React from 'react'
 
 const HomePage = () => {
@@ -18,6 +19,7 @@ const HomePage = () => {
       <Services />
       <Clients/>
       <Blogs />
+      <Works/>
       <Testimonials />
       <Team />
       <ContactUs />
