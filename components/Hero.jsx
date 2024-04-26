@@ -74,16 +74,15 @@ const Hero = () => {
                                             height={600}
                                             alt="Picture of the author"
                                         />
-                                        {/* <img src="https://source.unsplash.com/random/300x500/?man " alt="" className="" /> */}
                                     </div>
                                 </div>
                                 <div className="lg:w-40 w-64 h-40  overflow-hidden rounded-xl ">
                                     <Image
                                         className="lg:w-40 w-64 h-40  overflow-hidden rounded-xl "
-                                        src="/dcba.jpg"
+                                        src="/ca.jpeg"
                                         width={720}
                                         height={600}
-                                        alt="Picture of the author"
+                                        alt="CA Logo"
                                     />
                                 </div>
 
