@@ -1,11 +1,13 @@
-import Blogs from '@/components/Blogs'
 import Clients from '@/components/Clients'
 import Hero from '@/components/Hero'
-import Services from '@/components/Services'
-import Team from '@/components/Team'
+import Services from '@/app/services/page'
+import Team from '@/app/team/page'
 import Testimonials from '@/components/Testimonials'
-import Works from '@/components/Works'
+import Works from '@/app/works/page'
 import React from 'react'
+// import Gallary from './infozone/Gallary/Gallary'
+import InfoZone from '@/app/infozone/InfoZone'
+import Blogs from './infozone/Blogs/page'
 
 const HomePage = () => {
 
@@ -13,13 +15,16 @@ const HomePage = () => {
 
     <>
 
-      <Hero/>
+      <Hero />
       <Services />
-      <Clients/>
+      <Clients />
       <Blogs />
-      <Works/>
+      <Works />
       <Testimonials />
       <Team />
+      <InfoZone />
+      {/* <Gallary/> */}
+
     </>
   )
 }

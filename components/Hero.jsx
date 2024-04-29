@@ -32,7 +32,7 @@ const Hero = () => {
                                     <div>
                                         <Image
                                             className="w-32 lg:w-40 h-32  overflow-hidden rounded-xl "
-                                            src="/dcba.jpg"
+                                            src="/invest.jpg"
                                             width={300}
                                             height={500}
                                             alt="Picture of the author"
@@ -41,7 +41,7 @@ const Hero = () => {
                                     <div>
                                         <Image
                                             className="w-32 lg:w-40 h-48  overflow-hidden rounded-xl "
-                                            src="/dcba.jpg"
+                                            src="/auditing.jpg"
                                             width={300}
                                             height={500}
                                             alt="Picture of the author"
@@ -50,7 +50,7 @@ const Hero = () => {
                                 <div >
                                     <Image
                                         className="lg:w-60 w-64 h-96  overflow-hidden rounded-xl "
-                                        src="/dcba.jpg"
+                                        src="/company.jpg"
                                         width={300}
                                         height={500}
                                         alt="Picture of the author"
@@ -60,7 +60,7 @@ const Hero = () => {
                                     <div >
                                         <Image
                                             className="w-32 lg:w-40 h-48  overflow-hidden rounded-xl "
-                                            src="/dcba.jpg"
+                                            src="/accountin.jpg"
                                             width={720}
                                             height={600}
                                             alt="Picture of the author"
@@ -69,7 +69,7 @@ const Hero = () => {
                                     <div>
                                         <Image
                                             className="lg:w-40 w-64 h-40  overflow-hidden rounded-xl "
-                                            src="/dcba.jpg"
+                                            src="/finance.jpg"
                                             width={720}
                                             height={600}
                                             alt="Picture of the author"

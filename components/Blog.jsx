@@ -1,12 +1,12 @@
 import React from 'react'
 import Image from 'next/image'
 
-const Blogs = () => {
+const Blog = () => {
     return (
         <section className="text-gray-600 body-font overflow-hidden">
             <div className='container'>
                 <div className="flex flex-col text-center w-full mb-20">
-                    <h1 className="sm:text-3xl text-2xl font-medium title-font  text-gray-900">Blogs</h1>
+                    <h1 className="sm:text-3xl text-2xl font-medium title-font  text-gray-900">Blos</h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base"> This can be something you could fing helpful. Browse by category.
                     </p>
                 </div>
@@ -78,7 +78,8 @@ const Blogs = () => {
                 </div>
 
                 <div className="flex flex-col text-center w-full mb-10">
-                    <a className="sm:text-2xl text-2 mt-5 font-medium title-font  text-green-900" href='#'>More Blogs..</a>
+                    
+                    <a className="sm:text-2xl text-2 mt-5 font-medium title-font  text-green-900" href='/infozone/Blogs'>Read More Blogs..</a>
 
                 </div>
             </div>
@@ -86,4 +87,4 @@ const Blogs = () => {
     )
 }
 
-export default Blogs
+export default Blog
