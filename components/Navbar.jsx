@@ -15,7 +15,7 @@ const Navbar = () => {
           <Link className="ml-5 hover:text-gray-900" href="/services">
             SERVICES
           </Link>
-          <Link className="ml-5 hover:text-gray-900" href="/infozone/Blogs/postid">
+          <Link className="ml-5 hover:text-gray-900" href="/infozone/Blogs">
             BLOGS
           </Link>
           <Link className="ml-5 hover:text-gray-900" href="/works">

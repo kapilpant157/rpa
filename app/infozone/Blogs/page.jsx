@@ -79,7 +79,7 @@ const Blogs = () => {
               Five Million for the project.
             </p>
             <div className="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
-              <a className="text-indigo-500 inline-flex items-center" href="#">
+              <a className="text-indigo-500 inline-flex items-center" href="/infozone/Blogs/fdi">
                 Read More...
               </a>
 
