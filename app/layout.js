@@ -6,7 +6,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "RPA NEPAL",
-  description: "Rpa nepal a well established associate firm",
+  description: "R Pandey and Associates (RPA) nepal is a well established associate firm",
 };
 
 export default function RootLayout({ children }) {

@@ -7,7 +7,8 @@ import Works from '@/app/works/page'
 import React from 'react'
 // import Gallary from './infozone/Gallary/Gallary'
 import InfoZone from '@/app/infozone/InfoZone'
-import Blogs from './infozone/Blogs/page'
+import Blogs from '@/components/Blogs'
+
 
 const HomePage = () => {
 
@@ -18,7 +19,7 @@ const HomePage = () => {
       <Hero />
       <Services />
       <Clients />
-      <Blogs />
+      <Blogs/>
       <Works />
       <Testimonials />
       <Team />

@@ -5,9 +5,6 @@ const Hero = () => {
     return (
         <section className="text-gray-600 body-font">
             <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
-
-
-
                 <div className="flex justify-center  ">
                     <div className="flex flex-col items-center justify-center">
 
