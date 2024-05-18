@@ -8,7 +8,7 @@ const pan = () => {
       <div className="container mx-auto flex flex-col  justify-center items-center">
         <p className="text-sky-600 object-cover object-center">PAN</p>
         <Image
-          className="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
+          className="lg:w-4/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
           alt="hero"
           src="/pan.png"
           width={720}
