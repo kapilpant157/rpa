@@ -6,7 +6,7 @@ import Testimonials from '@/components/Testimonials'
 import Works from '@/app/works/page'
 import React from 'react'
 // import Gallary from './infozone/Gallary/Gallary'
-import InfoZone from '@/app/infozone/InfoZone'
+import InfoZone from '@/app/infozone/page'
 import Blogs from '@/components/Blogs'
 
 

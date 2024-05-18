@@ -22,7 +22,7 @@ const Navbar = () => {
             WORKS
           </Link>
           <Link className="ml-5 hover:text-gray-900" href="/infozone/Gallary">
-            GALLER
+            GALLERY
           </Link>
           <Link className="ml-5 hover:text-gray-900" href="/team">
             TEAM

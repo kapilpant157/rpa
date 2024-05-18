@@ -3,10 +3,8 @@ import Image from "next/image";
 import Link from "next/link";
 const Blogs = () => {
   return (
-   
     <section className="text-gray-600 body-font overflow-hidden">
       <div className="container">
-       
         <div className="flex flex-wrap -m-12">
           <div className="p-12 md:w-1/2 flex flex-col items-start">
             <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">
@@ -28,16 +26,15 @@ const Blogs = () => {
               Profession, Trade in Nepal is required to obtain PAN from IRD. Any
               person desirous to obtain PAN can voluntarily apply for PAN.
             </p>
-            <div className="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full" >
-              <a className="text-indigo-500 inline-flex items-center" href="/infozone/Blogs/pan">
+            <div className="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
+              <a
+                className="text-indigo-500 inline-flex items-center"
+                href="/infozone/Blogs/pan"
+              >
                 Read More...
               </a>
 
-
-              <div
-                className="ml-auto flex flex-wrap items-center text-base justify-center"
-                
-              >
+              <div className="ml-auto flex flex-wrap items-center text-base justify-center">
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
                   src="/abcd.jpg"
@@ -79,13 +76,16 @@ const Blogs = () => {
               Five Million for the project.
             </p>
             <div className="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
-              <a className="text-indigo-500 inline-flex items-center" href="/infozone/Blogs/fdi">
+              <a
+                className="text-indigo-500 inline-flex items-center"
+                href="/infozone/Blogs/fdi"
+              >
                 Read More...
               </a>
 
               <div
                 className="ml-auto flex flex-wrap items-center text-base justify-center"
-                href="#"
+                
               >
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
@@ -108,33 +108,32 @@ const Blogs = () => {
 
           <div className="p-12 md:w-1/2 flex flex-col items-start">
             <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">
-              PAN
+              VAT
             </span>
             <Image
               className="w-100 h-100 flex-shrink-0 object-cover object-center "
-              src="/pan.png"
+              src="/vat.png"
               width={720}
               height={600}
               alt="PAN sample"
             />
             <h2 className="sm:text-3xl text-2xl title-font font-medium text-gray-900 ">
-              Procedure of PAN registration
+              Reverse Charge in VAT - Section 8(3)
             </h2>
             <p className="leading-relaxed mb-8">
-              Permanent Account Number (PAN) is a unique number allocated to
-              taxpayer by IRD. Any person doing Employment, Business or
-              Profession, Trade in Nepal is required to obtain PAN from IRD. Any
-              person desirous to obtain PAN can voluntarily apply for PAN.
+              This section applies to the construction of Building Apartments,
+              Shopping Complex including Road, Bridge, Electricity Production
+              Center, Hall which are not movable for value more than 50 lakhs.
             </p>
             <div className="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
-              <a className="text-indigo-500 inline-flex items-center" href="#">
+              <a
+                className="text-indigo-500 inline-flex items-center"
+                href="/infozone/Blogs/reversevat"
+              >
                 Read More...
               </a>
 
-              <div
-                className="ml-auto flex flex-wrap items-center text-base justify-center"
-                href="#"
-              >
+              <div className="ml-auto flex flex-wrap items-center text-base justify-center">
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
                   src="/abcd.jpg"
@@ -179,10 +178,7 @@ const Blogs = () => {
                 Read More...
               </a>
 
-              <div
-                className="ml-auto flex flex-wrap items-center text-base justify-center"
-                href="#"
-              >
+              <div className="ml-auto flex flex-wrap items-center text-base justify-center">
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
                   src="/abcd.jpg"
@@ -201,12 +197,7 @@ const Blogs = () => {
               </div>
             </div>
           </div>
-
-
-
         </div>
-
-        
       </div>
     </section>
   );
