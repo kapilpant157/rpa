@@ -51,10 +51,10 @@ const Footer = () => {
                         <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">ABOUT US</h2>
                         <nav className="list-none mb-10">
                             <li>
-                                <a className="text-gray-600 hover:text-gray-800" href="#" rel="noopener noreferrer" target="_blank">What we do</a>
+                                <a className="text-gray-600 hover:text-gray-800" href="/services">What we do</a>
                             </li>
                             <li>
-                                <a className="text-gray-600 hover:text-gray-800" href="#" rel="noopener noreferrer" target="_blank">Our Team</a>
+                                <a className="text-gray-600 hover:text-gray-800" href="/team">Our Team</a>
                             </li>
                             <li>
                                 <a className="text-gray-600 hover:text-gray-800" href="#" rel="noopener noreferrer" target="_blank">Work with Us</a>

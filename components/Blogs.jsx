@@ -36,13 +36,13 @@ const Blogs = () => {
               person desirous to obtain PAN can voluntarily apply for PAN.
             </p>
             <div className="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
-              <a className="text-indigo-500 inline-flex items-center" href="@/infozone/Blogs/pan">
+              <a className="text-indigo-500 inline-flex items-center" href="/infozone/Blogs/pan">
                 Read More...
               </a>
 
               <div
                 className="ml-auto flex flex-wrap items-center text-base justify-center"
-                href="#"
+                
               >
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
@@ -85,13 +85,13 @@ const Blogs = () => {
               Five Million for the project.
             </p>
             <div className="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
-              <a className="text-indigo-500 inline-flex items-center" href="@/infozone/Blogs/fdi">
+              <a className="text-indigo-500 inline-flex items-center" href="/infozone/Blogs/fdi">
                 Read More...
               </a>
 
               <div
                 className="ml-auto flex flex-wrap items-center text-base justify-center"
-                href="#"
+                
               >
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
