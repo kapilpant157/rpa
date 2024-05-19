@@ -30,7 +30,7 @@ const InfoZone = () => {
             </Link>
           </div>
           <div className="p-4 md:w-1/3">
-            <video autoPlay muted loop width="320" height="240" controls preload="none">
+            {/* <video autoPlay muted loop width="320" height="240" controls preload="none">
               <source src="/video.mp4" type="video/mp4" />
               <track
                 src="/path/to/captions.vtt"
@@ -39,7 +39,7 @@ const InfoZone = () => {
                 label="English"
               />
               Your browser does not support the video tag.
-            </video>
+            </video> */}
 
             <Link href="/infozone/Videos">
               <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
