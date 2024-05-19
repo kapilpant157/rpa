@@ -7,9 +7,17 @@ const Blogs = () => {
       <div className="container">
         <div className="flex flex-wrap -m-12">
           <div className="p-12 md:w-1/2 flex flex-col items-start">
-            <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">
-              PAN
-            </span>
+            <div className="flex items-center flex-wrap pb-4 mb-4 mt-auto w-full">
+              <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">
+                PAN
+              </span>
+              <div className="ml-auto flex flex-wrap items-center text-base justify-center">
+                <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest flex-grow flex flex-col pl-4">
+                  Date:
+                </span>
+              </div>
+            </div>
+
             <Image
               className="w-100 h-100 flex-shrink-0 object-cover object-center "
               src="/pan.png"
@@ -31,7 +39,7 @@ const Blogs = () => {
                 className="text-indigo-500 inline-flex items-center"
                 href="/infozone/Blogs/pan"
               >
-                Read More...
+                Continue Reading
               </a>
 
               <div className="ml-auto flex flex-wrap items-center text-base justify-center">
@@ -55,9 +63,16 @@ const Blogs = () => {
           </div>
 
           <div className="p-12 md:w-1/2 flex flex-col items-start">
-            <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">
-              Foreign
-            </span>
+            <div className="flex items-center flex-wrap pb-4 mb-4 mt-auto w-full">
+              <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">
+                PAN
+              </span>
+              <div className="ml-auto flex flex-wrap items-center text-base justify-center">
+                <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest flex-grow flex flex-col pl-4">
+                  Date:
+                </span>
+              </div>
+            </div>
             <Image
               className="w-100 h-100 lex-shrink-0 object-cover object-center "
               src="/invest.jpg"
@@ -80,13 +95,10 @@ const Blogs = () => {
                 className="text-indigo-500 inline-flex items-center"
                 href="/infozone/Blogs/fdi"
               >
-                Read More...
+                Continue Reading
               </a>
 
-              <div
-                className="ml-auto flex flex-wrap items-center text-base justify-center"
-                
-              >
+              <div className="ml-auto flex flex-wrap items-center text-base justify-center">
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
                   src="/dcba.jpg"
@@ -107,9 +119,16 @@ const Blogs = () => {
           </div>
 
           <div className="p-12 md:w-1/2 flex flex-col items-start">
-            <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">
-              VAT
-            </span>
+            <div className="flex items-center flex-wrap pb-4 mb-4 mt-auto w-full">
+              <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">
+                VAT
+              </span>
+              <div className="ml-auto flex flex-wrap items-center text-base justify-center">
+                <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest flex-grow flex flex-col pl-4">
+                  Date:
+                </span>
+              </div>
+            </div>
             <Image
               className="w-100 h-100 flex-shrink-0 object-cover object-center "
               src="/vat.png"
@@ -130,7 +149,7 @@ const Blogs = () => {
                 className="text-indigo-500 inline-flex items-center"
                 href="/infozone/Blogs/reversevat"
               >
-                Read More...
+                Continue Reading
               </a>
 
               <div className="ml-auto flex flex-wrap items-center text-base justify-center">
@@ -154,28 +173,37 @@ const Blogs = () => {
           </div>
 
           <div className="p-12 md:w-1/2 flex flex-col items-start">
-            <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">
-              PAN
-            </span>
+            <div className="flex items-center flex-wrap pb-4 mb-4 mt-auto w-full">
+              <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest">
+                PAN
+              </span>
+              <div className="ml-auto flex flex-wrap items-center text-base justify-center">
+                <span className="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 text-xs font-medium tracking-widest flex-grow flex flex-col pl-4">
+                  Date:
+                </span>
+              </div>
+            </div>
             <Image
               className="w-100 h-100 flex-shrink-0 object-cover object-center "
-              src="/pan.png"
+              src="/revvat.png"
               width={720}
               height={600}
               alt="PAN sample"
             />
             <h2 className="sm:text-3xl text-2xl title-font font-medium text-gray-900 ">
-              Procedure of PAN registration
+              Reverse VAT under VAT Act, 2052
             </h2>
             <p className="leading-relaxed mb-8">
-              Permanent Account Number (PAN) is a unique number allocated to
-              taxpayer by IRD. Any person doing Employment, Business or
-              Profession, Trade in Nepal is required to obtain PAN from IRD. Any
-              person desirous to obtain PAN can voluntarily apply for PAN.
+              Generally VAT has to be collected by the person who is registered
+              as per VAT Act, 2052 and engaged in selling of Goods or providing
+              services in Nepal. 
+              {/* In the following cases, buyer of the goods or
+              services is required to pay VAT to the revenue itselfwhich is
+              known as reverse charging. */}
             </p>
             <div className="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
               <a className="text-indigo-500 inline-flex items-center" href="#">
-                Read More...
+                Continue Reading
               </a>
 
               <div className="ml-auto flex flex-wrap items-center text-base justify-center">
