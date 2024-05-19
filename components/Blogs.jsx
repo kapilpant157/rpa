@@ -46,17 +46,17 @@ const Blogs = () => {
               >
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
-                  src="/abcd.jpg"
+                  src="/Ravindra.jpg"
                   width={720}
                   height={600}
                   alt="Picture of the author"
                 />
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font font-medium text-gray-900">
-                    Kapil Dev Pant
+                    Ravindra
                   </span>
                   <span className="text-gray-400 text-xs tracking-widest mt-0.5">
-                    DEVELOPER
+                    Propriter
                   </span>
                 </span>
               </div>

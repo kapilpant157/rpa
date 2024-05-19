@@ -45,17 +45,17 @@ const Blogs = () => {
               <div className="ml-auto flex flex-wrap items-center text-base justify-center">
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
-                  src="/abcd.jpg"
+                  src="/Ravindra.jpg"
                   width={720}
                   height={600}
                   alt="Picture of the author"
                 />
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font font-medium text-gray-900">
-                    Kapil Dev Pant
+                    Ravindra Pandey
                   </span>
                   <span className="text-gray-400 text-xs tracking-widest mt-0.5">
-                    DEVELOPER
+                    Propriter
                   </span>
                 </span>
               </div>
@@ -101,7 +101,7 @@ const Blogs = () => {
               <div className="ml-auto flex flex-wrap items-center text-base justify-center">
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
-                  src="/dcba.jpg"
+                  src="/Ravindra.jpg"
                   width={720}
                   height={600}
                   alt="Picture of the author"
@@ -155,17 +155,17 @@ const Blogs = () => {
               <div className="ml-auto flex flex-wrap items-center text-base justify-center">
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
-                  src="/abcd.jpg"
+                  src="/Ravindra.jpg"
                   width={720}
                   height={600}
                   alt="Picture of the author"
                 />
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font font-medium text-gray-900">
-                    Kapil Dev Pant
+                    Ravindra Pandey
                   </span>
                   <span className="text-gray-400 text-xs tracking-widest mt-0.5">
-                    DEVELOPER
+                    Propriter
                   </span>
                 </span>
               </div>
@@ -202,24 +202,24 @@ const Blogs = () => {
               known as reverse charging. */}
             </p>
             <div className="flex items-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
-              <a className="text-indigo-500 inline-flex items-center" href="#">
+              <a className="text-indigo-500 inline-flex items-center" href="/infozone/Blogs/reversevatact">
                 Continue Reading
               </a>
 
               <div className="ml-auto flex flex-wrap items-center text-base justify-center">
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
-                  src="/abcd.jpg"
+                  src="/Ravindra.jpg"
                   width={720}
                   height={600}
                   alt="Picture of the author"
                 />
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font font-medium text-gray-900">
-                    Kapil Dev Pant
+                    Ravindra Pandey
                   </span>
                   <span className="text-gray-400 text-xs tracking-widest mt-0.5">
-                    DEVELOPER
+                    Propriter
                   </span>
                 </span>
               </div>
