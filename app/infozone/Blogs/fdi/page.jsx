@@ -100,7 +100,7 @@ const fdi = () => {
               Request letter from the share transferee (not required in case of
               issue of new shares)
             </li>
-            <li>Recent Auditor's Report</li>
+            <li>Recent Auditor&apos;s Report</li>
             <li>Tax Clearance Certificate</li>
             <li>
               Authority letter from the respective companies concerned to sign
@@ -126,8 +126,8 @@ const fdi = () => {
               Nepal.
             </li>
             <li>
-              Liaison Office can oversee a company's existing business interest,
-              spread awareness of a company's products, and explore
+              Liaison Office can oversee a company&apos;s existing business interest,
+              spread awareness of a company&apos;s products, and explore
               opportunities for further growth and development.
             </li>
             <h2 className="underline">
