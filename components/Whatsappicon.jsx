@@ -6,7 +6,7 @@ const Whatsappicon = () => {
     <>
       <div className="fixed bottom-20 right-3">
         <a
-          href="https://wa.me/6398141941?text=Hello, I got your contact through website."
+          href="https://wa.me/9779843626545?text=Hello, I got your contact through website."
           rel="noopener noreferrer"
           target="_blank"
         >
