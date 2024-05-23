@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Link from "next/link";
+
 const Blogs = () => {
   return (
     <section className="text-gray-600 body-font overflow-hidden">

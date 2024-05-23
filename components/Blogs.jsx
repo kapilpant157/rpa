@@ -95,7 +95,7 @@ const Blogs = () => {
               >
                 <Image
                   className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "
-                  src="/dcba.jpg"
+                  src="/Ravindra.jpg"
                   width={720}
                   height={600}
                   alt="Picture of the author"
