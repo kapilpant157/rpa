@@ -8,13 +8,13 @@ import React from "react";
 // import Gallary from './infozone/Gallary/Gallary'
 import InfoZone from "@/app/infozone/page";
 import Blogs from "@/components/Blogs";
-import Whatsappicon from "@/components/Whatsappicon";
+// import Whatsappicon from "@/components/Whatsappicon";
 import Image from "next/image";
 
 const HomePage = () => {
   return (
     <>
-      <Whatsappicon/>
+      {/* <Whatsappicon/> */}
         
       <Hero />
       <Services />

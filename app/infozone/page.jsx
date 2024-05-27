@@ -22,8 +22,8 @@ const InfoZone = () => {
                 </div>
                 <div className="flex-grow">
                   <p className="leading-relaxed text-base">
-                    Blue bottle crucifix vinyl post-ironic four dollar toast
-                    vegan taxidermy. Gastropub indxgo juice poutine.
+                    Knowledge hub that bridge gaps by sharing expertise,
+                    research findings, and personal experiences.
                   </p>
                 </div>
               </div>
@@ -45,13 +45,12 @@ const InfoZone = () => {
               <div className="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
                 <div className=" items-center mb-3">
                   <h2 className="text-gray-900 text-lg text-center title-font font-medium">
-                    VIDEOS
+                    NEWS
                   </h2>
                 </div>
                 <div className="flex-grow">
                   <p className="leading-relaxed text-base">
-                    Blue bottle crucifix vinyl post-ironic four dollar toast
-                    vegan taxidermy. Gastropub indxgo juice poutine.
+                    What is going on the economic part of the world ?
                   </p>
                 </div>
               </div>
@@ -67,8 +66,8 @@ const InfoZone = () => {
                 </div>
                 <div className="flex-grow">
                   <p className="leading-relaxed text-base">
-                    Bottle crucifix vinyl post-ironic four dollar toast vegan
-                    taxidermy. Gastropub indxgo juice poutine.
+                    Visual narratives for captured moments and preserved
+                    memories to relive experiences and connect with the world.
                   </p>
                 </div>
               </div>
