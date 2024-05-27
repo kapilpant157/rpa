@@ -6,6 +6,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "RPA NEPAL",
+
   description: "R Pandey and Associates (RPA) nepal is a well established associate firm",
 };
 

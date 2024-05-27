@@ -54,17 +54,17 @@ const reversevatact = () => {
           </p>
 
           <h3 className="underline">Accounting for Reverse VAT:</h3>
-          <p className="mb-8 leading-relaxed">
+          <p className=" leading-relaxed">
             Reverse VAT is to be shown seperately in books of account. A sample
             journal entry (entry opinion may differ).
-            <ul>
+          </p>
+            <ul >
               <li>Dr. Expenses (Expense Account Head)</li>
               <li>Dr. VAT - Reverse Charge (input credit)</li>
               <li>Cr. Bank Account</li>
               <li>Cr. TDS Payable</li>
             </ul>
-          </p>
-
+<br className="mb-8"/>
           <h3 className="underline">Notes:</h3>
           <h3 className="underline">
             Note 1: Conditions for reverse VAT (VAT Directive, pg. 16):
