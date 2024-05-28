@@ -11,12 +11,16 @@ import Blogs from "@/components/Blogs";
 
 
 
+
+
+
 const HomePage = () => {
   return (
     <>
    
         
       <Hero />
+     
       <Services />
       <Clients />
       <Blogs />
