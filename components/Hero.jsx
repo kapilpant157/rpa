@@ -103,10 +103,10 @@ const Hero = () => {
                         We provide various comprehensive Professional services which include Business and Financial Consultancy, Audit & Assurance services, accounting services, Taxation and Compliance consultancy, Project Feasibility Analysis, Financial Projections, and other related services etc.
                         We are dedicated to excellence in Professional Services, upholding high standards of honesty and Integrity to meet our client’s requirement.
                     </p>
-                    <div className="flex justify-center">
+{/*                     <div className="flex justify-center">
                         <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
                         <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Button</button>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </section>
