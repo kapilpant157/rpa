@@ -43,7 +43,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               target="_blank"
             >
-              Bijuli Bazar, Kathmandu, Nepal
+              Ward No. 31, Min-Bhvan, Opp. NCC Campus, New Baneshwor Kathmandu, Nepal.
             </a>
           </span>
         </div>
