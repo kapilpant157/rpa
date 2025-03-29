@@ -126,7 +126,7 @@ const Team = () => {
               </div>
             </div>
           </div>
-          {/* monika */}
+          {/* monica */}
           <div className="p-4 lg:w-1/2">
             <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
               <Image
@@ -138,7 +138,7 @@ const Team = () => {
               />
               <div className="flex-grow sm:pl-8">
                 <h2 className="title-font font-medium text-lg text-gray-900">
-                  Monika Bhattarai
+                  Monica Bhattarai
                 </h2>
                 <h3 className="text-gray-500 mb-3">
                   Manager-Audit and Assurance{" "}
